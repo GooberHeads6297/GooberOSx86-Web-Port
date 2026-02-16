@@ -17,6 +17,6 @@ ________________________________
 
 ## Example of the Task Manager
 
-file:///home/gooberheads/Downloads/demonstration2.png
+<img width="1836" height="833" alt="demonstration2" src="https://github.com/user-attachments/assets/eb4b88f8-b6b0-4a12-928c-820420011341" />
 
 This was accomplished using a script to compile the proper strings of the base64 of the operating system, including the dependencies meant to run it like the Vga BIOS and emulation software. 
